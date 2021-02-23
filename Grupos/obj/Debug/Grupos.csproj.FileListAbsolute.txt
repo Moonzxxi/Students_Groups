@@ -1,0 +1,7 @@
+C:\Users\Salma Mármol\source\repos\Grupos\bin\Debug\Grupos.exe.config
+C:\Users\Salma Mármol\source\repos\Grupos\bin\Debug\Grupos.exe
+C:\Users\Salma Mármol\source\repos\Grupos\bin\Debug\Grupos.pdb
+C:\Users\Salma Mármol\source\repos\Grupos\obj\Debug\Grupos.csprojAssemblyReference.cache
+C:\Users\Salma Mármol\source\repos\Grupos\obj\Debug\Grupos.csproj.CoreCompileInputs.cache
+C:\Users\Salma Mármol\source\repos\Grupos\obj\Debug\Grupos.exe
+C:\Users\Salma Mármol\source\repos\Grupos\obj\Debug\Grupos.pdb
